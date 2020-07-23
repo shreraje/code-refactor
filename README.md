@@ -6,7 +6,7 @@
 
 
 
-Please click on the link below to access the webisite-
+Please click on the link below to access the website-
 https://shreraje.github.io/code-refactor/.
 
 
