@@ -1,4 +1,14 @@
-# Code Refactor
+# Code Refactor Assignment
 
-Make sure to include all the changes that have been made in html code>>>>>>
+ 
+
+
+
+
+
+Please click on the link below to access the webisite.
+<link here>
+
+
+Screenshot of the website is displayed below.
 
